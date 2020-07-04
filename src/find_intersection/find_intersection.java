@@ -34,6 +34,7 @@ public class find_intersection {
 			System.out.println("Found intersection!");
 		else
 			System.out.println("Not Find");
+		
 	}
 	
 	private static Node findIns(Node root1, Node root2) {
